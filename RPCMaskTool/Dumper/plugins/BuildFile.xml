@@ -1,0 +1,9 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/PluginManager"/>
+<use name="DataFormats/MuonDetId"/>
+<use name="Geometry/RPCGeometry"/>
+<use name="Geometry/Records"/>
+<use name="CondFormats/RPCObjects"/>
+<use name="CondFormats/DataRecord"/>
+<flags EDM_PLUGIN="1"/>
