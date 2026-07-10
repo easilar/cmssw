@@ -1,0 +1,15 @@
+<use name="DataFormats/Common"/>
+<use name="DataFormats/RPCRecHit"/>
+<use name="DataFormats/MuonDetId"/>
+<use name="FWCore/Framework"/>
+<use name="FWCore/MessageLogger"/>
+<use name="FWCore/ParameterSet"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="Geometry/RPCGeometry"/>
+<use name="Geometry/Records"/>
+<use name="L1Trigger/RPCTriggerPrimitives"/>
+<use name="root"/>
+<library file="*.cc" name="RPCTriggerPrimitivesPlugins">
+  <flags EDM_PLUGIN="1"/>
+</library>
